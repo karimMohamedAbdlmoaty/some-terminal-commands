@@ -1,0 +1,33 @@
+users-Mac-mini:~ user$  =>   computer name : currentDirectory username 
+
+pwd => To where we will typing now> it will give you the path
+
+ls => refer to list , to show all the directories in the selected folder in alphabetical order
+
+ls -l => o show all the directories in the selected folder whith more details lihe size and diorectory or not 
+
+cd => refer to chanbge directory , 
+cd nameOfDirectoryYouWant
+
+clear => to clear up our terminal
+
+mkdir => refer to make directory , to make anew directory
+
+cd ../ => to back a step
+
+cd => send you to the root
+
+rmdir => refer to remove directory , 
+rmdir directoryName
+
+((to produce a file)) ===>>  
+touch fileName
+touch text.html
+
+((to remove a file)) ===>>  
+rm fileName
+rm text.html
+
+=========================================
+
+ذterminal = > is agateway of backend of mac os is d irectory
